@@ -2,12 +2,18 @@
 
 **EDITH** is a voice assistant program built using Python that can perform various tasks based on voice commands. It utilizes the SpeechRecognition library to convert spoken language into text and responds using the pyttsx3 library for text-to-speech conversion. The assistant can perform tasks like telling jokes, searching the web, providing the current time and date, playing music, and even performing sentiment analysis on recorded messages.
 
-**Features**
+## **Features**
+
 **Voice Interaction:** Communicate with the assistant using voice commands.
+
 **Joke Telling:** Ask EDITH to tell a joke and it will respond with a humorous joke.
+
 **Web Search:** Inquire about something, and EDITH will perform a Google search for you.
+
 **Time and Date:** Ask for the current time or date, and EDITH will provide the information.
+
 **Music Playback**: Ask EDITH to play a melody song, and it will play a song from the specified directory.
+
 **Stress Detection:** EDITH can record your message and perform sentiment analysis to detect stress levels.
 
 ## **Prerequisites**
